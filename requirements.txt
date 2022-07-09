@@ -4,6 +4,7 @@ pandas
 sklearn
 numpy
 PyYAML
+evidently  
 -e . 
 #installed all the packages in the current directory
 #like housing folder.setup.py is mandatory to make for -e . package  to run
